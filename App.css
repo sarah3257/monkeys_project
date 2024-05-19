@@ -1,0 +1,13 @@
+/* global */
+.test{
+  color:aqua;
+  font-size: 4em;
+}
+.myIcon{
+  font-size: 4em;
+  color: brown;
+  transition: 1000ms;
+}
+.myIcon:hover{
+  color:black;
+}
